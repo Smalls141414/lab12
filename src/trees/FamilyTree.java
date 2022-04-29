@@ -191,7 +191,7 @@ public class FamilyTree
 			if (ancestorsOf2.contains(n1))
 				return n1;
 		
-		// No common ancestor.
+		// No common ancestor
 		return null;
 	}
 	
